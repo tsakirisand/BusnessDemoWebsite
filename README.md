@@ -1,6 +1,6 @@
 # FORMA Atelier — Business Demo
 
-Αυτόνομο, τετρασέλιδο demo για το Business Plan της Nuvex Studio. Το concept αφορά ένα αρχιτεκτονικό και interior design studio.
+Αυτόνομο, τετρασέλιδο demo για το Business Plan της OPUS Studio. Το concept αφορά ένα αρχιτεκτονικό και interior design studio.
 
 ## Σελίδες
 
